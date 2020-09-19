@@ -4,6 +4,3 @@ def other_method():
 
 def yet_another_method():
     print("This is yet_another method.")
-
-
-
